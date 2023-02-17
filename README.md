@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey, I'm Ruslan 👋
 
-<!--
-**useinov12/useinov12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a software developer working with React frameworks. 
 
-Here are some ideas to get you started:
+**Working on beautiful and performant web ✨**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My Favorite Tech Stack:
+**React, Typescript, Next JS, Tailwind CSS**
+
+
+👨‍💻 You can read my blog [here](https://ruslan-useinov.com/blog)\
+⚙️ Things I build and currently working on [here](https://ruslan-useinov.com/projects)\
+⬇️ [My LinkedIn profile]( https://www.linkedin.com/in/ruslan-useinov/)
+
+Feel free to contact me! ✍️
